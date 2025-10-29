@@ -50,6 +50,7 @@ dependencies {
     implementation(libs.androidx.constraintlayout)
     implementation(libs.play.services.maps)
 
+    implementation("com.google.android.gms:play-services-location:21.0.1")
     // Tambahan sesuai instruksi Modul 7
     implementation(libs.androidx.activity.ktx)
     implementation(libs.androidx.fragment.ktx)
